@@ -1,0 +1,17 @@
+$color-principal:rgb(204, 37, 190);
+$color-secundario:rgb(245, 231, 41);
+
+h4,h5,h5{
+    color:$color-principal;
+}
+
+div{
+    h5{
+        font-family: 'Redressed', cursive;
+        color:$color-secundario;
+    }
+}
+
+.alineacion{
+    text-align:center;
+}
